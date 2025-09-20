@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - YO-coffee</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+    <header>
+        <nav role="navigation" aria-label="Main navigation">
+            <div class="logo" role="banner">YO-coffee</div>
+            <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation menu" aria-expanded="false">&#9776;</button>
+            <ul class="nav-links" id="navLinks" role="menubar">
+                <li role="none"><a href="index.html" role="menuitem" aria-current="page">Home</a></li>
+                <li role="none"><a href="menu.html" role="menuitem">Menu</a></li>
+                <li role="none"><a href="about.html" role="menuitem">About</a></li>
+                <li role="none"><a href="contact.html" role="menuitem">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main id="main-content">
+        <section class="hero" style="background-image: url('https://images.unsplash.com/photo-1495474472287-45d8a129e46c');" role="banner" aria-label="Hero section with coffee shop introduction">
+            <div class="hero-overlay">
+                <h1>Brewing Happiness at YO-coffee</h1>
+                <p>Experience the birthplace of coffee in Hawassa, Ethiopia. Discover authentic Ethiopian coffee traditions and artisanal brewing methods.</p>
+                <a href="menu.html" class="cta" role="button" aria-label="Explore our Ethiopian coffee menu">Explore Our Coffee</a>
+            </div>
+        </section>
+        <section class="featured reveal" aria-labelledby="featured-heading">
+            <h2 id="featured-heading">Our Signature Ethiopian Coffees</h2>
+            <div class="grid" role="list" aria-label="Featured Ethiopian coffee drinks">
+                <article class="card" role="listitem">
+                    <img src="https://images.unsplash.com/photo-1509042239860-f550ce710b93" alt="Traditional Ethiopian coffee ceremony with jebena pot" loading="lazy">
+                    <h3>Traditional Coffee Ceremony</h3>
+                    <p>Authentic Ethiopian coffee ceremony with Sidamo beans. 150 ETB</p>
+                </article>
+                <article class="card" role="listitem">
+                    <img src="https://images.unsplash.com/photo-1497935586351-b67a49e012bf" alt="Yirgacheffe single origin coffee in traditional cup" loading="lazy">
+                    <h3>Yirgacheffe Single Origin</h3>
+                    <p>Premium Yirgacheffe beans with floral notes. 120 ETB</p>
+                </article>
+            </div>
+        </section>
+        
+        <section class="coffee-story reveal" aria-labelledby="story-heading">
+            <h2 id="story-heading">The Birthplace of Coffee</h2>
+            <div class="story-content">
+                <p>Ethiopia is the birthplace of coffee, and Hawassa is at the heart of this rich tradition. Our coffee beans are sourced directly from local farmers in the Sidamo and Yirgacheffe regions, ensuring the highest quality and supporting our community.</p>
+                <p>We honor the traditional Ethiopian coffee ceremony, where coffee is roasted, ground, and brewed in front of you using our authentic jebena (coffee pot). This ritual has been passed down through generations and represents the social heart of Ethiopian culture.</p>
+                <div class="coffee-facts">
+                    <h3>Why Ethiopian Coffee is Special</h3>
+                    <ul>
+                        <li>Grown at high altitudes (1,500-2,200 meters)</li>
+                        <li>Natural processing methods preserve unique flavors</li>
+                        <li>Diverse microclimates create distinct regional profiles</li>
+                        <li>Direct trade relationships with local farmers</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer role="contentinfo">
+        <p>&copy; 2025 YO-coffee. All rights reserved. | Hawassa, Ethiopia | +251 46 221 1234</p>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+</html>
