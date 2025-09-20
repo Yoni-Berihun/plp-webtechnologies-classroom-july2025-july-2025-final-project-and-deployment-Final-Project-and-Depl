@@ -1,6 +1,8 @@
-# ☕ YO-coffee - Authentic Ethiopian Coffee Experience in Hawassa
+# ☕ YO-coffee - Demo Project: Authentic Ethiopian Coffee Experience
 
-A modern, responsive website for YO-coffee, an authentic Ethiopian coffee shop located in Hawassa, Ethiopia. This project celebrates Ethiopia's rich coffee heritage while demonstrating comprehensive web development skills including HTML5 semantic structure, CSS responsive design, JavaScript interactivity, and accessibility best practices.
+A modern, responsive **demo website** for YO-coffee, a conceptual Ethiopian coffee shop inspired by Hawassa, Ethiopia. This **portfolio project** celebrates Ethiopia's rich coffee heritage while demonstrating comprehensive web development skills including HTML5 semantic structure, CSS responsive design, JavaScript interactivity, and accessibility best practices.
+
+> **Note:** This is a demonstration project showcasing web development skills. YO-coffee is not an actual operating business.
 
 ## 🌐 Live Website
 **Live URL:** [Deploy your site here using GitHub Pages, Netlify, or Vercel]
@@ -8,13 +10,13 @@ A modern, responsive website for YO-coffee, an authentic Ethiopian coffee shop l
 ## 📋 Project Overview
 
 ### Purpose
-YO-coffee is a multi-page website showcasing an authentic Ethiopian coffee shop in Hawassa, Ethiopia. The site celebrates Ethiopia's position as the birthplace of coffee, featuring traditional coffee ceremonies, single-origin beans from Sidamo, Yirgacheffe, and Harrar regions, and local Ethiopian cuisine.
+YO-coffee is a **demo website** showcasing a conceptual Ethiopian coffee shop inspired by Hawassa, Ethiopia. The site celebrates Ethiopia's position as the birthplace of coffee, featuring traditional coffee ceremonies, single-origin beans from Sidamo, Yirgacheffe, and Harrar regions, and local Ethiopian cuisine. This project demonstrates web development skills through an authentic cultural theme.
 
 ### Target Audience
-- Coffee enthusiasts seeking authentic Ethiopian coffee experiences
-- Tourists visiting Hawassa and the Sidama Region
-- Local community members and coffee ceremony participants
-- International visitors interested in Ethiopian coffee culture
+- **Portfolio reviewers** and potential employers
+- **Web development students** learning best practices
+- **Coffee enthusiasts** interested in Ethiopian coffee culture
+- **Anyone** interested in seeing a well-crafted demo website
 
 ## 🏗️ Website Structure
 
@@ -200,14 +202,15 @@ plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Fi
 - **Multi-language** support (Amharic, Oromo)
 - **Coffee education** blog section
 
-## 📞 Contact & Support
+## 📞 Project Information
 
-For questions about this project or the YO-coffee website:
-- **Email**: info@yo-coffee.et
-- **Phone**: +251 46 221 1234
-- **Address**: Hawassa, Sidama Region, Ethiopia
-- **Hours**: Daily 6:00 AM - 10:00 PM
+**Demo Project Details:**
+- **Project Type**: Portfolio demonstration website
+- **Status**: Not an operating business - Demo/Concept only
+- **Purpose**: Showcase web development skills
+- **Theme**: Ethiopian coffee culture and heritage
+- **Location**: Inspired by Hawassa, Ethiopia (conceptual)
 
 ---
 
-*Built with ❤️ for the Ethiopian coffee community in Hawassa*
+*Built with ❤️ as a demo project inspired by Ethiopian coffee culture*
